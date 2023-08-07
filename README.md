@@ -1,3 +1,7 @@
+# ChatGPT Conversation
+
+The conversation history and all prompts can be found in the **ChatGPTHistory.html** file, it will open in any web browser or can be read in code form. The entirety of the conversation used to design and write this insertion sort program is included.
+
 # Generic Insertion Sort
 
 This program demonstrates a generic implementation of the insertion sort algorithm in Java, allowing users to sort arrays of various data types such as integers, strings, and floats. The generic sorting class, `GenericInsertionSort`, leverages Java generics to provide a single sorting solution for multiple data types.
