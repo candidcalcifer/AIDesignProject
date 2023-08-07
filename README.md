@@ -1,6 +1,6 @@
 # ChatGPT Conversation
 
-The conversation history and all prompts can be found in the **ChatGPTHistory.html** or **ChatGPTHistory.pdf** file, the original file was the html and it will open in any web browser or can be read in code form, it has also been converted to a pdf as well. The entirety of the conversation used to design and write this insertion sort program is included.
+The conversation history and all prompts can be found in the **ChatGPTHistory.pdf** file. The entirety of the conversation used to design and write this insertion sort program is included.
 
 # Generic Insertion Sort
 
